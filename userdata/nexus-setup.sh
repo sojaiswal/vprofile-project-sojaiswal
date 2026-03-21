@@ -3,7 +3,7 @@
 #sudo rpm --import https://yum.corretto.aws/corretto.key                                     >>> I have edited this
 #sudo curl -L -o /etc/yum.repos.d/corretto.repo https://yum.corretto.aws/corretto.repo       >>> I have edited this
 
-sudo yum install -y java-17-amazon-corretto-devel wget -y
+#sudo yum install -y java-17-amazon-corretto-devel wget -y                                   >>> I have edited this
 
 mkdir -p /opt/nexus/
 mkdir -p /tmp/nexus/
